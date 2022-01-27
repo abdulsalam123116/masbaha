@@ -1,7 +1,7 @@
 {
     "name": "المسبحة",
     "short_name": "المسبحة",
-    "start_url": "/Sbha/index.html",
+    "start_url": "/masbaha/index.html",
     "icons": [{
         "src": "images/img48.png",
         "sizes": "48x48",
