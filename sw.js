@@ -2,15 +2,15 @@ var cacheName = "sbhaCache"
 var filesToCache = [
 
 
-    '/Sbha/',
-    '/Sbha/css/all.min.css',
-    '/Sbha/css/main.css',
-    '/Sbha/images/img144.png',
-    '/Sbha/images/path.png',
-    '/Sbha/index.html',
-    '/Sbha/js/main.js',
-    '/Sbha/manifest.json',
-    '/Sbha/sw.js'
+    '/masbaha/',
+    '/masbaha/css/all.min.css',
+    '/masbaha/css/main.css',
+    '/masbaha/images/img144.png',
+    '/masbaha/images/path.png',
+    '/masbaha/index.html',
+    '/masbaha/js/main.js',
+    '/masbaha/manifest.json',
+    '/masbaha/sw.js'
 
 
 ]

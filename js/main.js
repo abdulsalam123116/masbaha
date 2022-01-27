@@ -112,7 +112,7 @@ reset.addEventListener("click", function() {
 })
 
 if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register('../../Sbha/sw.js')
+    navigator.serviceWorker.register('../../masbaha/sw.js')
         .then(function() {
             console.log('Service Worker Registered');
         })
